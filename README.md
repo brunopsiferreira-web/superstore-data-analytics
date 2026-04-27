@@ -184,6 +184,4 @@ Distribuído sob a licença MIT. Veja `LICENSE` para mais detalhes.
 
 ## 🙋 Autor
 
-Feito com ❤️ para estudo de Data Analytics.
-
-Se este projeto te ajudou, deixa uma ⭐ no repositório!
+Feito para estudo de Data Analytics.
